@@ -1,8 +1,10 @@
 {
+    "editor.tabSize": 2,
+    "editor.insertSpaces": true,
     "files.exclude": {
         ".github": true,
-        ".devcontainer":true,
-        "src": true,
+        ".devcontainer":false,
+        "src": false,
         "tests": true,
         ".gitignore": true,
         "package.json": true,
