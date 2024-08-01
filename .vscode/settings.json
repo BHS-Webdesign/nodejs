@@ -6,7 +6,7 @@
         ".devcontainer":false,
         "src": false,
         "tests": true,
-        ".gitignore": true,
+        ".gitignore": false,
         "package.json": true,
         "package-lock.json": true,
         "node_modules":true,
